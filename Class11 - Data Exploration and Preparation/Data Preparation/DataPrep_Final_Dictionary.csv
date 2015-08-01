@@ -1,0 +1,27 @@
+MSRP,Max Retail Price
+sedan,Dummy for Type = Sedan
+hatch,Dummy for Type = Hatchback
+convert,Dummy for Type = Convertible
+minivan,Dummy for Type = Minivan
+miniSUV,Dummy for Type = Mini SUV 
+SUV,Dummy for Type = SUV
+wagon,Dummy for Type = StationWagon
+subcom,Dummy for Type = SubCompact
+compact,Dummy for Type = Compact
+fullsize,Dummy for Type = FullSize 
+luxury,Dummy for Type = Luxury
+sport,Dummy for Type = Sportscar
+city,Mileage in City
+high,Mileage on Highway
+length,Length of car
+width,Width of car
+height,Height of car
+weight,Weight of car
+luggage,Luggage space
+horse,Horsepower
+Cyl,Number of Cylinders
+Disp,Displacement
+fuel,Fuel Efficiency
+AWD,All Wheel Drive
+FWD,Four Wheel Drive
+FOURWD,Four Wheel Drive Dummy 

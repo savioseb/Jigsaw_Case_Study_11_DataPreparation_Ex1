@@ -1,0 +1,24 @@
+Store,Week,Retailer,State,Sales,Promo1,Promo2,Promo3,Promo4,City
+MH - 14567,12-01-2011,Bigbazar,Maharashtra,2000,1,0,1,1,Mum
+MH - 14568,12-01-2011,Reliance,Maharashtra,3200,1,0,1,0,Pun
+KA - 14568,12-08-2011,Reliance,Karnataka,4300,1,1,1,1,BLR
+KA - 14568,12-08-2011,Reliance,Karnataka,1200,1,1,1,1,MYS
+MH - 13245,12-01-2011,Foodmall,Maharashtra,2600,0,1,0,1,Mum
+KA - 13245,12-08-2011,Foodmall,Karnataka,5000,0,1,1,0,BLR
+KA - 13245,12-16-2011,Foodmall,Karnataka,7000,1,0,1,0,MYS
+MH - 16311,12-01-2011,Foodmart,Maharashtra,4000,0,0,0,0,Mum
+KA - 14571,12-01-2011,Nilgiri,Karnataka,9000,1,1,1,1,BLR
+KA - 14571,12-08-2011,Nilgiri,Karnataka,5600,1,1,1,1,MYS
+KE - 14571,12-16-2011,Nilgiri,Kerala,3569,0,0,0,0,TRI
+KE - 14571,12-24-2011,Nilgiri,Kerala,5437,0,0,0,0,TRI
+KE - 14571,12-31-2011,Nilgiri,Kerala,5827,0,1,1,1,TRI
+MH - 89567,12-01-2011,Supermart,Maharashtra,9275,0,1,0,0,Pun
+KA - 89567,12-08-2011,Supermart,Karnataka,7358,0,1,1,1,BLR
+KE - 89567,12-16-2011,Supermart,Kerala,2789,1,1,0,0,TRI
+KE - 89567,12-24-2011,Supermart,Kerala,7658,1,0,1,1,TRI
+KE - 89567,12-31-2011,Supermart,Kerala,5629,1,1,1,0,TRI
+MH - 567854,12-01-2011,Kmart,Maharashtra,2499,1,0,1,1,Pun
+KE - 567854,12-08-2011,Kmart,Kerala,2769,0,1,1,0,TRI
+KA - 567854,12-16-2011,Kmart,Karnataka,4755,0,0,1,1,BLR
+KA - 567854,12-24-2011,Kmart,Karnataka,2222,1,1,0,0,MYS
+KE - 567854,12-25-2011,Kmart,Kerala,20000,1,1,1,1,TRI
